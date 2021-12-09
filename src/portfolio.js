@@ -10,7 +10,7 @@ const about = {
   role: 'Full Stack Developer',
   description:
     'I build elegant, performant full stack web applications.',
-  resume: 'https://www.linkedin.com/in/isaac-lartey-346161139/',
+  resume: 'https://drive.google.com/file/d/12RKIrXlGRXJ83w71UnZ8QEf1fYGDwhJJ/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/isaac-lartey-346161139/',
     github: 'https://github.com/larteyis',
@@ -23,42 +23,42 @@ const projects = [
   {
     name: 'Interactive Online Form',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Recreated a responsive form based on a responsive mockup and incorporated form validation',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    sourceCode: 'https://github.com/larteyis/Interactive_Form.git',
+    livePreview: 'https://modest-snyder-d6a3f9.netlify.app',
   },
   {
     name: 'Public API Request',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'Created an employee directory by communicating with third-party API for info',
     stack: ['Ajax', 'JavaScript'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/larteyis/Public_API_Request.git',
+    livePreview: 'https://lucid-lamarr-957bc8.netlify.app',
   },
   {
     name: 'Random Quote Generator',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Displays a random quote from an array every time a  user clicks a button',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    sourceCode: 'https://github.com/larteyis/Random_Quote_Generator.git',
+    livePreview: 'https://unruffled-murdock-22f9c8.netlify.app',
   },
   {
     name: 'OOP Game Show App',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Used object-oriented-programming to select a random hidden phrase for a player to guess',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    sourceCode: 'https://github.com/larteyis/OOP_Game_Show_App.git',
+    livePreview: 'https://gallant-lichterman-c01635.netlify.app',
   },
   {
     name: 'Data Pagination and Filtering',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Simplified a large data of students by creating pages with fewer pages with pagination and a search bar',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    sourceCode: 'https://github.com/larteyis/Data_Pagination_And_Filtering.git',
+    livePreview: 'https://zealous-ptolemy-801cd5.netlify.app',
   },
 ]
 
